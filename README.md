@@ -61,3 +61,5 @@ Assicuratevi di fare clic sul file .exe dell'applicazione, poiché il file dell'
 È possibile selezionare la lingua di preferenza dall'icona in alto a destra del portafoglio.
 
 # Fase 8: Cliccare su **Nuovo Conto** per creare un nuovo conto o scegliere **Importa Conto** nel caso in cui ne abbiate già creato uno e vogliate importarlo tramite la vostra Frase Segreta (Semi).
+
+Utilizza la guida in PDF "Tutorial Portafoglio Desktop della BNS per sistema operativo Windows.pdf" che trovi in questa repository oppure [clicca QUI per visionarla online](https://www.canva.com/design/DAGKFdLUrzg/FyqoVb5s-i3kPdTlF7sUsw/view?utm_content=DAGKFdLUrzg&utm_campaign=designshare&utm_medium=link&utm_source=editor).
